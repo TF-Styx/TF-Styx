@@ -1,7 +1,7 @@
 ## Приветствую! 👋
 
 <div align="center">
-  <img src="https://github.com/TF-Styx/TF-Styx/blob/main/Images/Coding%20-%20Pixel%20Jeff.gif" alt="Coding - Pixel Jeff"/>
+  <img src="https://github.com/TF-Styx/TF-Styx/blob/main/Images/play%20-%20pixel.gif" alt="play - pixel"/>
 </div>
 
 <h3 align="left">🔥   Мои технологии! </h3>
