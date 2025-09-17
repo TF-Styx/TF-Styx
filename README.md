@@ -1,7 +1,7 @@
 ## Приветствую! 👋
 
 <div align="center">
-  <img src="https://github.com/TF-Styx/TF-Styx/blob/main/Images/play%20-%20pixel.gif" alt="play - pixel"/>
+  <img src="https://github.com/TF-Styx/TF-Styx/blob/main/Images/forest.gif" alt="forest"/>
 </div>
 
 <h3 align="left">🔥   Мои технологии! </h3>
