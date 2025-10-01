@@ -22,4 +22,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tf-styx&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TFStyx&layout=compact&theme=github_dark&hide_border=true" alt="Styx's WakaTime stats"/>
 </div>
